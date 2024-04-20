@@ -4,3 +4,31 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    width: 1140px;
+    margin: 0 auto;
+    padding: 1.25rem;
+    font-family: "Fredoka", sans-serif;
+
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    padding: 2.0rem 0 3.75rem 0;
+
+}
+
+header h1 {
+    color: rgb(229, 49, 112);
+    font-weight: 800;
+    font-size: 2.125rem;
+}
+
+
+
+p {
+    text-align: center;
+    padding-bottom: 3.125rem;
+}
