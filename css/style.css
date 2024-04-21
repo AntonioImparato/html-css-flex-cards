@@ -54,6 +54,7 @@ p {
     flex-shrink: 0;
     margin: 0px 15px 30px 15px;
     display: flex;
+    box-shadow: 1px 1px rgba(0, 0, 0, 0.308), 0em 0 .3em rgba(0, 0, 0, 0.404);
 
 
 }
